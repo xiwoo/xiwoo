@@ -73,7 +73,7 @@
 const xiwoo = {
   language: {
     used: [
-      "Javascript", "Typescript", "Java", "SQL", "HTML", "CSS",
+      "Javascript", "Typescript", "Java", "SQL"
     ],
     interest: [
       "Rust"
