@@ -1,15 +1,14 @@
-# 이민상 (Minsang Lee)
+# xiwoo
 
-**Backend Developer** — 레거시 현대화 / AI 제품
+**Backend Developer**
 
-서비스를 멈추지 않고 레거시를 걷어내며 성능과 비용으로 증명해온 백엔드 개발자입니다.
-지금은 그 기반 위에 AI 제품을 설계부터 운영까지 확장하고 있습니다.
+### 거쳐온 포지션
 
-- 5,000만 다운로드 글로벌 서비스에서 .NET→Kotlin 무중단 이관, 분산 DB 20개 테이블 통합
-  — 앱 부팅 85초→37초, API 250ms→50ms, 인프라 비용 월 40만원 절감
-- 문서 없는 73,517줄 jQuery 금융 레거시를 12개 도메인 서비스 구조로 재설계
-  — 18,816줄(74% 감소), 4인 팀 리딩, 실운영 오픈·인수인계 완료
-- FastAPI + LangGraph + MCP 기반 AI 멀티 에이전트 제품 설계·구축·운영 중 (Mundora)
+- 2018–2020 · Fullstack Developer — 제조 SI
+- 2021–2023 · Fullstack Developer — 온라인 교육 플랫폼
+- 2023 · Frontend Developer — B2B SaaS
+- 2023–2025 · Backend Developer — 글로벌 앱 서비스
+- 2025–2026 · Frontend Lead — 금융 (프리랜서)
 
 ### Stack
 
